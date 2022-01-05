@@ -11,6 +11,11 @@ body {
   justify-content: space-evenly;
   background-color: #f5f6fa;
   padding: 20px;
+  background-image: url("https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg");
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+  height: 100vh;
 }
 
 .app__dropdown {
